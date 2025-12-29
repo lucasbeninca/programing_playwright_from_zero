@@ -9,3 +9,5 @@ para usar o node 18 em ambientes modernos basta instalar o nvm e na pasta do pro
 * `npx playwright --debug` abre o playwright debug
 
 * uma forma de filtrar classes com expressões regulares usando o `*` exemplo `input[class*=InputNewTask]`
+
+* Instalar o Faker `npm i @faker-js/faker`.
